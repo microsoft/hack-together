@@ -11,7 +11,7 @@ The hackathon starts on **March 1st** and ends on **March 15th**. It is recommen
 ### Tips & Tricks
 
 * Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](https://github.com/microsoft/hack-together/discussions)**. Microsoft experts will be there to help you.
-* There is a list of **[📃 Top Microsoft Graph Scenarios](/Top-Microsoft-Graph-Scenarios.md)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
+* There is a list of **[📃 Top Microsoft Graph Scenarios](/TOP-SCENARIOS.md)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
 * Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](https://github.com/microsoft/hack-together#recommended-learning-materials)** below.
 * Looking for code samples? Check out available **[✨ Samples](https://github.com/microsoft/hack-together#samples)** in the repository.
 * Submit your project until March 15 to win the **[🏆 Prizes](https://github.com/microsoft/hack-together#samples)**.
@@ -22,7 +22,7 @@ Follow the steps below to successfully complete the hackathon.
 
 ### #00 - Pre-requisites
 
-Before you start hacking, you will need an environment setup. Review **[Environment Setup](/Environment-Setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
+Before you start hacking, you will need an environment setup. Review **[Environment Setup](/SETUP.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
 * Prepare your Office 365 tenant
 * Prepare your GitHub account
