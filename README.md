@@ -4,7 +4,7 @@
 
 In this hackathon, you will kick-start learning how to build apps with Microsoft Graph and develop apps based on the given [Top Microsoft Graph Scenarios](https://aka.ms/hack-together), for a chance to win exciting prizes while meeting Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors.
 
-### Tips & Tricks
+## Tips & Tricks
 
 > ❓Whenever you struggle during the hackathon, ask your questions on **[GitHub Discussions](https://aka.ms/hack-together/discussions)**. Microsoft experts will be there to help you.
 
@@ -16,7 +16,7 @@ In this hackathon, you will kick-start learning how to build apps with Microsoft
 
 > 🏆 Submit your project until March 15 to win a digital badge!
 
-### Pre-requisites
+## Pre-requisites
 
 Before you start hacking, you will need an environment setup. Review [Environment Setup](https://aka.ms/hack-together) guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
@@ -24,13 +24,13 @@ Before you start hacking, you will need an environment setup. Review [Environmen
 * Prepare your GitHub account
 * Set up your development environment
 
-### Roadmap
+## Roadmap
 
-#### 🏁 Start hacking on March 1st
+### 🏁 Start hacking on March 1st
 
 Either Team up or by yourself, join the hacking! Make sure to complete the pre-requisites before starting to build your project.
 
-#### 📺 Join live Reactor sessions for learning and inspiration
+### 📺 Join live Reactor sessions for learning and inspiration
 
 * **March 1st: [Join Live Reactor Session](https://aka.ms/hack-together/session01)**: Scott Hanselman and Yina Arenas kickoff Hack Together: Microsoft Graph and .NET Challenge! What can you do with Microsoft Graph .NET SDK?
 
@@ -44,12 +44,12 @@ Either Team up or by yourself, join the hacking! Make sure to complete the pre-r
 
 You may submit your project here when it's ready: **[Project Submission](https://aka.ms/hack-together)**
 
-### Recommended Learning Materials
+## Recommended Learning Materials
 
 * [Learn Path - Explore Microsoft Graph scenarios for ASP.NET Core development](https://learn.microsoft.com/en-us/training/paths/m365-msgraph-dotnet-core-scenarios/)
 * [Tutorial - Build .NET apps with Microsoft Graph](https://learn.microsoft.com/en-us/graph/tutorials/dotnet?tabs=aad)
 * [Documentation - Overview of Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview)
 
-### Prizes
+## Prizes
 
 ..
