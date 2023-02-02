@@ -1,22 +1,12 @@
 # Hack Together: Microsoft Graph and .NET
 
-**🦒 Hack Together: Microsoft Graph and .NET** is a hackathon for beginners to get started building .NET apps with Microsoft Graph between **March 1 and 15**.
+## Summary
 
-In this hackathon, you will kick-start learning how to build apps with Microsoft Graph and develop apps based on the given [Top Microsoft Graph Scenarios](https://aka.ms/hack-together), for a chance to win exciting prizes while meeting Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors.
+Hack Together: Microsoft Graph and .NET is a hackathon for beginners to get started building .NET apps with Microsoft Graph. The hackathon starts on March 1st and ends on March 15th.
 
-### Tips & Tricks
+In this hackathon, you will kick-start learning how to build apps with Microsoft Graph and develop apps based on the given Top Microsoft Graph Scenarios, for a chance to win exciting prizes while meeting Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors.
 
-> ❓Whenever you struggle during the hackathon, ask your questions on **[GitHub Discussions](https://aka.ms/hack-together/discussions)**. Microsoft experts will be there to help you.
-
-> 📃 There is a list of **Top Microsoft Graph Scenarios** available! You may build one of these ideas to win a digital badge, or build your own ideas!
-
-> 📚 Looking for documentation and guidance? Check out **Recommended Learning Materials**.
-
-> 🌟 Looking for code samples or some inspiration? Check out available **[Samples](/samples/)** in the repository.
-
-> 🏆 Submit your project until March 15 to win a digital badge!
-
-### Pre-requisites
+## Pre-requisites
 
 Before you start hacking, you will need an environment setup. Review [Environment Setup](https://aka.ms/hack-together) guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
@@ -24,13 +14,13 @@ Before you start hacking, you will need an environment setup. Review [Environmen
 * Prepare your GitHub account
 * Set up your development environment
 
-### Roadmap
+## The Hackathon Roadmap
 
-#### 🏁 Start hacking on March 1st
+### 🏁 Start hacking on March 1st
 
 Either Team up or by yourself, join the hacking! Make sure to complete the pre-requisites before starting to build your project.
 
-#### 📺 Join live Reactor sessions for learning and inspiration
+### 📺 Join live Reactor sessions for learning and inspiration
 
 * **March 1st: [Join Live Reactor Session](https://aka.ms/hack-together/session01)**: Scott Hanselman and Yina Arenas kickoff Hack Together: Microsoft Graph and .NET Challenge! What can you do with Microsoft Graph .NET SDK?
 
@@ -44,12 +34,24 @@ Either Team up or by yourself, join the hacking! Make sure to complete the pre-r
 
 You may submit your project here when it's ready: **[Project Submission](https://aka.ms/hack-together)**
 
-### Recommended Learning Materials
+## Tips & Tricks
+
+> ❓Whenever you struggle during the hackathon, ask your questions on **[GitHub Discussions](https://aka.ms/hack-together/discussions)**. Microsoft experts will be there to help you.
+
+> 📃 There is a list of **Top Microsoft Graph Scenarios** available! You may build one of these ideas to win a digital badge, or build your own ideas!
+
+> 📚 Looking for documentation and guidance? Check out **Recommended Learning Materials**.
+
+> 🌟 Looking for code samples or some inspiration? Check out available **[Samples](/samples/)** in the repository.
+
+> 🏆 Submit your project until March 15 to win a digital badge!
+
+## Recommended Learning Materials
 
 * [Learn Path - Explore Microsoft Graph scenarios for ASP.NET Core development](https://learn.microsoft.com/en-us/training/paths/m365-msgraph-dotnet-core-scenarios/)
 * [Tutorial - Build .NET apps with Microsoft Graph](https://learn.microsoft.com/en-us/graph/tutorials/dotnet?tabs=aad)
 * [Documentation - Overview of Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview)
 
-### Prizes
+## Prizes
 
 ..
