@@ -1,20 +1,10 @@
 # Hack Together: Microsoft Graph and .NET
 
-**🦒 Hack Together: Microsoft Graph and .NET** is a hackathon for beginners to get started building .NET apps with Microsoft Graph between **March 1 and 15**.
+## Summary
 
-In this hackathon, you will kick-start learning how to build apps with Microsoft Graph and develop apps based on the given [Top Microsoft Graph Scenarios](https://aka.ms/hack-together), for a chance to win exciting prizes while meeting Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors.
+Hack Together: Microsoft Graph and .NET is a hackathon for beginners to get started building .NET apps with Microsoft Graph. The hackathon starts on March 1st and ends on March 15th.
 
-## Tips & Tricks
-
-> ❓Whenever you struggle during the hackathon, ask your questions on **[GitHub Discussions](https://aka.ms/hack-together/discussions)**. Microsoft experts will be there to help you.
-
-> 📃 There is a list of **Top Microsoft Graph Scenarios** available! You may build one of these ideas to win a digital badge, or build your own ideas!
-
-> 📚 Looking for documentation and guidance? Check out **Recommended Learning Materials**.
-
-> 🌟 Looking for code samples or some inspiration? Check out available **[Samples](/samples/)** in the repository.
-
-> 🏆 Submit your project until March 15 to win a digital badge!
+In this hackathon, you will kick-start learning how to build apps with Microsoft Graph and develop apps based on the given Top Microsoft Graph Scenarios, for a chance to win exciting prizes while meeting Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors.
 
 ## Pre-requisites
 
@@ -24,7 +14,7 @@ Before you start hacking, you will need an environment setup. Review [Environmen
 * Prepare your GitHub account
 * Set up your development environment
 
-## Roadmap
+## The Hackathon Roadmap
 
 ### 🏁 Start hacking on March 1st
 
@@ -43,6 +33,18 @@ Either Team up or by yourself, join the hacking! Make sure to complete the pre-r
 #### 🎯 Submit your project until March 15th
 
 You may submit your project here when it's ready: **[Project Submission](https://aka.ms/hack-together)**
+
+## Tips & Tricks
+
+> ❓Whenever you struggle during the hackathon, ask your questions on **[GitHub Discussions](https://aka.ms/hack-together/discussions)**. Microsoft experts will be there to help you.
+
+> 📃 There is a list of **Top Microsoft Graph Scenarios** available! You may build one of these ideas to win a digital badge, or build your own ideas!
+
+> 📚 Looking for documentation and guidance? Check out **Recommended Learning Materials**.
+
+> 🌟 Looking for code samples or some inspiration? Check out available **[Samples](/samples/)** in the repository.
+
+> 🏆 Submit your project until March 15 to win a digital badge!
 
 ## Recommended Learning Materials
 
