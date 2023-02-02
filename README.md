@@ -4,17 +4,17 @@
 
 In this hackathon, you will kick-start learning how to build apps with Microsoft Graph and develop apps based on the given [Top Microsoft Graph Scenarios](https://aka.ms/hack-together), for a chance to win exciting prizes while meeting Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors.
 
-Throughout 🦒 Hack Together: Microsoft Graph and .NET, you'll:
+### Tips & Tricks
 
-👥 Team up and join the hacking
+> ❓Whenever you struggle during the hackathon, ask your questions on **[GitHub Discussions](https://aka.ms/hack-together/discussions)**. Microsoft experts will be there to help you.
 
-📺 Join 4 Live Reactor sessions to kick start learning about Microsoft Graph
+> 📃 There is a list of **Top Microsoft Graph Scenarios** available! You may build one of these ideas to win a digital badge, or build your own ideas!
 
-👩🏽‍💻 Build your project with Microsoft Graph and .NET (CheatSheet: **[Top Microsoft Graph Scenarios](https://aka.ms/hack-together)**)
+> 📚 Looking for documentation and guidance? Check out **Recommended Learning Materials**.
 
-🤔 Ask your questions on [GitHub Discussions](https://aka.ms/hack-together) and engage with the experts
+> 🌟 Looking for code samples or some inspiration? Check out available **[Samples](/samples/)** in the repository.
 
-🏆 Submit your project until March 15 to win a digital badge!
+> 🏆 Submit your project until March 15 to win a digital badge!
 
 ### Pre-requisites
 
@@ -26,11 +26,11 @@ Before you start hacking, you will need an environment setup. Review [Environmen
 
 ### Roadmap
 
-##### 1. Start hacking on March 1st
+#### 🏁 Start hacking on March 1st
 
-Make sure to complete the pre-requisites before starting to build your project.
+Either Team up or by yourself, join the hacking! Make sure to complete the pre-requisites before starting to build your project.
 
-##### 2. Join live Reactor sessions
+#### 📺 Join live Reactor sessions for learning and inspiration
 
 * **March 1st: [Join Live Reactor Session](https://aka.ms/hack-together/session01)**: Scott Hanselman and Yina Arenas kickoff Hack Together: Microsoft Graph and .NET Challenge! What can you do with Microsoft Graph .NET SDK?
 
@@ -40,19 +40,9 @@ Make sure to complete the pre-requisites before starting to build your project.
 
 * **March 15th: [Join Live Reactor Session to get to know the community!](https://aka.ms/hack-together/session04)**: We're at the end of Hack Together: Microsoft Graph and .NET, but the journey doesn't end here. What's next: learn how you can join the community!
 
-##### 3. Submit your project until March 15th
+#### 🎯 Submit your project until March 15th
 
 You may submit your project here when it's ready: **[Project Submission](https://aka.ms/hack-together)**
-
-#### Tips
->
-> ❓Ask your questions on GitHub Discussions throughout the hackathon, Microsoft experts will be there to help you.
-
-> 📚 Check out **Recommended Learning Materials** if you are looking for guidance for Microsoft Graph and .NET.
-
-> 🌟 Check out available **Samples** in the repository if you are looking for code samples and inspiration.
-
-> 📃 There is a list of **Top Microsoft Graph Scenarios** available! You may build one of these ideas to win a digital badge, or build your own ideas!
 
 ### Recommended Learning Materials
 
