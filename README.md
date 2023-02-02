@@ -16,11 +16,11 @@ Before you start hacking, you will need an environment setup. Review [Environmen
 
 ## The Hackathon Roadmap
 
-### 🏁 Start hacking on March 1st
+### #1 Start hacking on March 1st 🏁
 
 Either Team up or by yourself, join the hacking! Make sure to complete the pre-requisites before starting to build your project.
 
-### 📺 Join live Reactor sessions for learning and inspiration
+### #2 Join live Reactor sessions for learning and inspiration 📺
 
 * **March 1st: [Join Live Reactor Session](https://aka.ms/hack-together/session01)**: Scott Hanselman and Yina Arenas kickoff Hack Together: Microsoft Graph and .NET Challenge! What can you do with Microsoft Graph .NET SDK?
 
@@ -30,7 +30,7 @@ Either Team up or by yourself, join the hacking! Make sure to complete the pre-r
 
 * **March 15th: [Join Live Reactor Session to get to know the community!](https://aka.ms/hack-together/session04)**: We're at the end of Hack Together: Microsoft Graph and .NET, but the journey doesn't end here. What's next: learn how you can join the community!
 
-#### 🎯 Submit your project until March 15th
+### #3 Submit your project until March 15th 🎯
 
 You may submit your project here when it's ready: **[Project Submission](https://aka.ms/hack-together)**
 
