@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hack Together: Microsoft Graph and .NET is a hackathon for beginners to get started building scenario-based apps using .NET and Microsoft Graph.
+**Hack Together: Microsoft Graph and .NET** is a hackathon for beginners to get started building scenario-based apps using .NET and Microsoft Graph.
 
 In this hackathon, you will kick-start learning how to build apps with Microsoft Graph and develop apps based on the given Top Microsoft Graph Scenarios, for a chance to win exciting prizes while meeting Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors.
 
@@ -58,7 +58,7 @@ Available samples in the repository:
 
 * [samples](/samples/samples.md)
 
-### Prizes
+## Prizes
 
 🏅 Submitted project owners will earn a digital badge
 
