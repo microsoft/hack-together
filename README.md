@@ -54,4 +54,8 @@ You may submit your project here when it's ready: **[Project Submission](https:/
 
 ## Prizes
 
-..
+...
+
+## Samples
+
+...
