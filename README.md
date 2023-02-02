@@ -30,7 +30,7 @@ Before you start hacking, you will need an environment setup. Review [Environmen
 
 ### #1 Start hacking on March 1st 🏁
 
-Either Team up or by yourself, join the hacking! Make sure to complete the pre-requisites before starting to build your project.
+Either team-up or join by yourself, join the hacking! Make sure to complete the pre-requisites before starting to build your project.
 
 ### #2 Join live Reactor sessions for learning and inspiration 📺
 
@@ -54,4 +54,8 @@ You may submit your project here when it's ready: **[Project Submission](https:/
 
 ## Prizes
 
-..
+...
+
+## Samples
+
+...
