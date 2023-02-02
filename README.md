@@ -6,16 +6,15 @@ Hack Together: Microsoft Graph and .NET is a hackathon for beginners to get star
 
 In this hackathon, you will kick-start learning how to build apps with Microsoft Graph and develop apps based on the given Top Microsoft Graph Scenarios, for a chance to win exciting prizes while meeting Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors.
 
-It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
-> ℹ️ The hackathon starts on **March 1st** and ends on **March 15th**.
+The hackathon starts on **March 1st** and ends on **March 15th**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
 
-### 🏆 Prizes
+### Prizes
 
 * Submitted project owners will earn a digital badge
 * Top 3 project owners will be invited to speak at Microsoft 365 Platform Community Calls
 * Active participants on Reactor sessions and GitHub Discussions will earn additional gifts
 
-### 💡 Tips & Tricks
+### Tips & Tricks
 
 * Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](https://github.com/microsoft/hack-together/discussions)**. Microsoft experts will be there to help you.
 * There is a list of **[📃 Top Microsoft Graph Scenarios](/Top-Microsoft-Graph-Scenarios.md)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
@@ -23,9 +22,7 @@ It is recommended for participants to follow the Hack Together Roadmap for a suc
 * Looking for code samples? Check out available **[✨ Samples](/samples/samples.md)** in the repository.
 * Submit your project until March 15 to win the **🏆 Prizes**!
 
----
-
-## 🗺️The Hack Together Roadmap
+## Hack Together Roadmap 🗺️
 
 Follow the steps below to successfully complete the hackathon.
 
@@ -53,17 +50,15 @@ Either team-up or join by yourself, join the hacking! Make sure to complete the 
 
 ### #03 - Submit your project until March 15th
 
-You may submit your project here when it's ready: **[Project Submission](https://aka.ms/hack-together)**
+You may submit your project here when it's ready: **[🚀 Project Submission](https://aka.ms/hack-together)**
 
----
-
-## 📚 Recommended Learning Materials
+## Recommended Learning Materials
 
 * [Learn Path - Explore Microsoft Graph scenarios for ASP.NET Core development](https://learn.microsoft.com/en-us/training/paths/m365-msgraph-dotnet-core-scenarios/)
 * [Tutorial - Build .NET apps with Microsoft Graph](https://learn.microsoft.com/en-us/graph/tutorials/dotnet?tabs=aad)
 * [Documentation - Overview of Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview)
 
-## ✨ Samples
+## Samples
 
 Available samples in the repository:
 
