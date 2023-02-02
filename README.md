@@ -6,9 +6,21 @@ Hack Together: Microsoft Graph and .NET is a hackathon for beginners to get star
 
 In this hackathon, you will kick-start learning how to build apps with Microsoft Graph and develop apps based on the given Top Microsoft Graph Scenarios, for a chance to win exciting prizes while meeting Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors.
 
+## Tips & Tricks
+
+> ❓Whenever you struggle during the hackathon, ask your questions on **[GitHub Discussions](https://aka.ms/hack-together/discussions)**. Microsoft experts will be there to help you.
+
+> 📃 There is a list of **[Top Microsoft Graph Scenarios](/Top-Microsoft-Graph-Scenarios.md)** available! You may build one of these ideas to win a digital badge, or build your own ideas!
+
+> 📚 Looking for documentation and guidance? Check out **Recommended Learning Materials** below.
+
+> 🌟 Looking for code samples or some inspiration? Check out available **[Samples](/samples/samples.md)** in the repository.
+
+> 🏆 Submit your project until March 15 to win a digital badge!
+
 ## Pre-requisites
 
-Before you start hacking, you will need an environment setup. Review [Environment Setup](https://aka.ms/hack-together) guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
+Before you start hacking, you will need an environment setup. Review [Environment Setup](/Environment-Setup.md) guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
 * Prepare your Office 365 tenant
 * Prepare your GitHub account
@@ -33,18 +45,6 @@ Either Team up or by yourself, join the hacking! Make sure to complete the pre-r
 ### #3 Submit your project until March 15th 🎯
 
 You may submit your project here when it's ready: **[Project Submission](https://aka.ms/hack-together)**
-
-## Tips & Tricks
-
-> ❓Whenever you struggle during the hackathon, ask your questions on **[GitHub Discussions](https://aka.ms/hack-together/discussions)**. Microsoft experts will be there to help you.
-
-> 📃 There is a list of **Top Microsoft Graph Scenarios** available! You may build one of these ideas to win a digital badge, or build your own ideas!
-
-> 📚 Looking for documentation and guidance? Check out **Recommended Learning Materials**.
-
-> 🌟 Looking for code samples or some inspiration? Check out available **[Samples](/samples/)** in the repository.
-
-> 🏆 Submit your project until March 15 to win a digital badge!
 
 ## Recommended Learning Materials
 
