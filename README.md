@@ -24,9 +24,9 @@ Follow the steps below to successfully complete the hackathon.
 
 Before you start hacking, you will need an environment setup. Review **[Environment Setup](/SETUP.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
-* Prepare your Office 365 tenant
-* Prepare your GitHub account
-* Set up your development environment
+* [Prepare your Office 365 tenant](/SETUP.md#1---prepare-your-microsoft-365-tenant)
+* [Install Visual Studio or Visual Studio Code with .NET](/SETUP.md#2---install-visual-studio-or-visual-studio-code-with-net)
+* [Setup your GitHub account](/SETUP.md#3---setup-your-github-account)
 
 ### #01 - Start hacking on March 1st
 
@@ -34,13 +34,13 @@ Either team-up or join by yourself, join the hacking! Make sure to complete the 
 
 ### #02 - Join live Reactor sessions for learning and inspiration
 
-**📺 March 1st - [Join Live Reactor Session](https://aka.ms/hack-together/session01):** Scott Hanselman and Yina Arenas kickoff Hack Together: Microsoft Graph and .NET Challenge! What can you do with Microsoft Graph .NET SDK?
+* **March 1st - [Join Live 📺](https://aka.ms/hack-together/session01):** Scott Hanselman and Yina Arenas kickoff Hack Together: Microsoft Graph and .NET! What can you do with Microsoft Graph .NET SDK?
 
-**📺 March 2nd - [Join Live Reactor Session](https://aka.ms/hack-together/session02):** Microsoft Graph Product Managers will show you how to get started with Microsoft Graph .NET SDK!
+* **March 2nd - [Join Live 📺](https://aka.ms/hack-together/session02):** Microsoft Graph Product Managers will show you how to get started with Microsoft Graph .NET SDK!
 
-**📺 March 8th - [Join Live Reactor Session to meet the experts](https://aka.ms/hack-together/session03):** Microsoft Graph Product team and .NET Advocates join the Ask the Experts session to answer your questions. Get to know them!
+* **March 8th - [Join Live 📺](https://aka.ms/hack-together/session03):** Microsoft Graph Product team and .NET Advocates join the Ask the Experts session to answer your questions. Get to know them!
 
-**📺 March 15th - [Join Live Reactor Session to get to know the community!](https://aka.ms/hack-together/session04):** We're at the end of Hack Together, but the journey doesn't end here. What's next: learn how you can join the community!
+* **March 15th - [Join Live 📺](https://aka.ms/hack-together/session04):** We're at the end of Hack Together, but the journey doesn't end here. What's next: learn how you can join the community!
 
 ### #03 - Submit your project until March 15th
 
@@ -64,4 +64,4 @@ Available samples in the repository:
 
 🎤 Top 3 project owners will be invited to speak at Microsoft 365 Platform Community Calls
 
-🎁 Active participants on Reactor sessions and GitHub Discussions will earn additional gifts
+🎁 Active participants on live Reactor sessions and GitHub Discussions will earn additional gifts
