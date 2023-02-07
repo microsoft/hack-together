@@ -13,10 +13,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: |
-        Provide a short description of your project. What is it about?
-        What type of app have you built? What is it doing? What problem is it
-        solving?
+      description: Provide a short description of your project. What is it about? What type of app have you built? What is it doing? What problem is it solving?
     validations:
       required: true
   - type: input
