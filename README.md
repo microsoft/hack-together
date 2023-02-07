@@ -52,6 +52,8 @@ Either team-up or join by yourself, join the hacking! Make sure to complete the 
 
 You may submit your project here when it's ready: **[🚀 Project Submission](https://aka.ms/hack-together)**
 
+https://user-images.githubusercontent.com/11164679/217246172-0aaea858-a4be-4fb8-abf2-beebfc1544ef.mp4
+
 ## Recommended Learning Materials
 
 * [Learn Path - Explore Microsoft Graph scenarios for ASP.NET Core development](https://learn.microsoft.com/en-us/training/paths/m365-msgraph-dotnet-core-scenarios/)
