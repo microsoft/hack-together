@@ -8,8 +8,6 @@ In this hackathon, you will kick-start learning how to build apps with Microsoft
 
 The hackathon starts on **March 1st** and ends on **March 15th**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
 
-![Hack Together Roadmap](/images/HackTogetherRoadmap.png)
-
 ### Tips & Tricks
 
 * Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](https://github.com/microsoft/hack-together/discussions)**. Microsoft experts will be there to help you.
@@ -17,6 +15,8 @@ The hackathon starts on **March 1st** and ends on **March 15th**. It is recommen
 * Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](https://github.com/microsoft/hack-together#recommended-learning-materials)** below.
 * Looking for code samples? Check out available **[✨ Samples](https://github.com/microsoft/hack-together#samples)** in the repository.
 * Submit your project until March 15 to win the **[🏆 Prizes](https://github.com/microsoft/hack-together#samples)**.
+
+![Hack Together Roadmap](/images/HackTogetherRoadmap.png)
 
 ## Hack Together Roadmap 🗺️
 
