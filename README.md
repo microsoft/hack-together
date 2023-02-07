@@ -10,6 +10,10 @@ In this hackathon, you will kick-start learning how to build apps with Microsoft
 
 The hackathon starts on **March 1st** and ends on **March 15th**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
 
+<p align="center">
+  <a href="https://aka.ms/hack-together/sessions"><img src="https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge" alt="Add to calendar" border="0" /></a>
+</p>
+
 ### Tips & Tricks
 
 * Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](https://github.com/microsoft/hack-together/discussions)**. Microsoft experts will be there to help you.
@@ -67,3 +71,7 @@ Available samples in the repository:
 🎤 Top 3 project owners will be invited to speak at Microsoft 365 Platform Community Calls
 
 🎁 Active participants on live Reactor sessions and GitHub Discussions will earn additional gifts
+
+<p align="center">
+  <a href="https://aka.ms/hack-together/sessions"><img src="https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge" alt="Add to calendar" border="0" /></a>
+</p>
