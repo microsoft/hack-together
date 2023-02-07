@@ -39,7 +39,9 @@ Before you start hacking, you will need an environment setup. Review **[Environm
 Either team-up or join by yourself, join the hacking! Make sure to complete the pre-requisites before starting to build your project.
 
 ### #02 - Join live Reactor sessions for learning and inspiration
-
+<p align="left">
+  <a href="https://aka.ms/hack-together/sessions"><img src="https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge" alt="Add to calendar" border="0" /></a>
+</p>
 * **March 1st - [Join Live 📺](https://aka.ms/hack-together/session01):** Scott Hanselman and Yina Arenas kickoff Hack Together: Microsoft Graph and .NET! What can you do with Microsoft Graph .NET SDK?
 
 * **March 2nd - [Join Live 📺](https://aka.ms/hack-together/session02):** Microsoft Graph Product Managers will show you how to get started with Microsoft Graph .NET SDK!
@@ -75,7 +77,3 @@ Available samples in the repository:
 🎤 Top 3 project owners will be invited to speak at Microsoft 365 Platform Community Calls
 
 🎁 Active participants on live Reactor sessions and GitHub Discussions will earn additional gifts
-
-<p align="center">
-  <a href="https://aka.ms/hack-together/sessions"><img src="https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge" alt="Add to calendar" border="0" /></a>
-</p>
