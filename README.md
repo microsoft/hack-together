@@ -2,6 +2,10 @@
 
 ![Hack Together Roadmap](/assets/HackTogetherRoadmap.png)
 
+<p align="center">
+  <a href="https://aka.ms/hack-together/sessions"><img src="https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge" alt="Add to calendar" border="0" /></a>
+</p>
+
 ## Introduction
 
 **Hack Together: Microsoft Graph and .NET** is a hackathon for beginners to get started building scenario-based apps using .NET and Microsoft Graph.
@@ -9,10 +13,6 @@
 In this hackathon, you will kick-start learning how to build apps with Microsoft Graph and develop apps based on the given Top Microsoft Graph Scenarios, for a chance to win exciting prizes while meeting Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors.
 
 The hackathon starts on **March 1st** and ends on **March 15th**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
-
-<p align="center">
-  <a href="https://aka.ms/hack-together/sessions"><img src="https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge" alt="Add to calendar" border="0" /></a>
-</p>
 
 ### Tips & Tricks
 
@@ -42,6 +42,7 @@ Either team-up or join by yourself, join the hacking! Make sure to complete the 
 <p align="left">
   <a href="https://aka.ms/hack-together/sessions"><img src="https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge" alt="Add to calendar" border="0" /></a>
 </p>
+
 * **March 1st - [Join Live 📺](https://aka.ms/hack-together/session01):** Scott Hanselman and Yina Arenas kickoff Hack Together: Microsoft Graph and .NET! What can you do with Microsoft Graph .NET SDK?
 
 * **March 2nd - [Join Live 📺](https://aka.ms/hack-together/session02):** Microsoft Graph Product Managers will show you how to get started with Microsoft Graph .NET SDK!
