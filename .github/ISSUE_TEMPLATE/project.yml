@@ -1,13 +1,12 @@
 name: Project
-description: Share with us your project to get a digital badge and win exciting prizes!
+description: "Share with us your project to get a digital badge and win exciting prizes!"
 title: "Project: <short description>"
 body:
   - type: input
     id: name
     attributes:
       label: Project name
-      description: |
-        Name of your project
+      description: Name of your project
     validations:
       required: true
   - type: textarea
@@ -24,7 +23,6 @@ body:
     id: url
     attributes:
       label: Repo URL
-      description: |
-        URL of the GitHub repo with your project
+      description: URL of the GitHub repo with your project
     validations:
       required: true
