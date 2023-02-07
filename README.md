@@ -1,5 +1,7 @@
 # Hack Together: Microsoft Graph and .NET 🦒
 
+![Hack Together Roadmap](/images/HackTogetherRoadmap.png)
+
 ## Introduction
 
 **Hack Together: Microsoft Graph and .NET** is a hackathon for beginners to get started building scenario-based apps using .NET and Microsoft Graph.
@@ -15,8 +17,6 @@ The hackathon starts on **March 1st** and ends on **March 15th**. It is recommen
 * Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](https://github.com/microsoft/hack-together#recommended-learning-materials)** below.
 * Looking for code samples? Check out available **[✨ Samples](https://github.com/microsoft/hack-together#samples)** in the repository.
 * Submit your project until March 15 to win the **[🏆 Prizes](https://github.com/microsoft/hack-together#samples)**.
-
-![Hack Together Roadmap](/images/HackTogetherRoadmap.png)
 
 ## Hack Together Roadmap 🗺️
 
