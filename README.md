@@ -50,7 +50,9 @@ Either team-up or join by yourself, join the hacking! Make sure to complete the 
 
 ### #03 - Submit your project until March 15th
 
-You may submit your project here when it's ready: **[🚀 Project Submission](https://aka.ms/hack-together)**
+You may submit your project here when it's ready: **[🚀 Project Submission](https://github.com/microsoft/hack-together/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
+
+Check out this video for step by step project submission guidance:
 
 https://user-images.githubusercontent.com/11164679/217246172-0aaea858-a4be-4fb8-abf2-beebfc1544ef.mp4
 
