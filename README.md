@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/11164679/217246172-0aaea858-a4be-4fb8-
 
 If you are looking for a code template to start your project, we have the following templates available for you in this repository:
 
-* [Console App](../hack-together/templates/dotnet-console-app-microsoft-graph/)
+* [Console App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-console-app-microsoft-graph)
 
 ## Prizes
 
