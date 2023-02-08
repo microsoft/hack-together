@@ -19,8 +19,8 @@ The hackathon starts on **March 1st** and ends on **March 15th**. It is recommen
 * Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](https://github.com/microsoft/hack-together/discussions)**. Microsoft experts will be there to help you.
 * There is a list of **[📃 Top Microsoft Graph Scenarios](/top-scenarios.md)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
 * Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](https://github.com/microsoft/hack-together#recommended-learning-materials)** below.
-* Looking for code samples? Check out available **[✨ Samples](https://github.com/microsoft/hack-together#samples)** in the repository.
-* Submit your project until March 15 to win the **[🏆 Prizes](https://github.com/microsoft/hack-together#samples)**.
+* Looking for code templates to start with? Check out available **[✨ Templates](https://github.com/microsoft/hack-together#templates)** in the repository.
+* Submit your project until March 15 to win the **[🏆 Prizes](https://github.com/microsoft/hack-together#prizes)**.
 
 ## Hack Together Roadmap 🗺️
 
@@ -65,11 +65,11 @@ https://user-images.githubusercontent.com/11164679/217246172-0aaea858-a4be-4fb8-
 * [Tutorial - Build .NET apps with Microsoft Graph](https://learn.microsoft.com/en-us/graph/tutorials/dotnet?tabs=aad)
 * [Documentation - Overview of Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview)
 
-## Samples
+## Templates
 
-Available samples in the repository:
+If you are looking for a code template to start your project, we have the following templates available for you in this repository:
 
-* [samples](/samples/samples.md)
+* [Console App](../hack-together/templates/dotnet-console-app-microsoft-graph/)
 
 ## Prizes
 
