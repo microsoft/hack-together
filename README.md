@@ -43,6 +43,7 @@ Before you start hacking, you will need an environment setup. Review **[Environm
 Either team-up or join by yourself, join the hacking! Make sure to complete the pre-requisites before starting to build your project.
 
 ### #02 - Join live Reactor sessions for learning and inspiration
+
 <p align="left">
   <a href="https://aka.ms/hack-together/sessions"><img src="https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge" alt="Add to calendar" border="0" /></a>
 </p>
@@ -61,7 +62,7 @@ You may submit your project here when it's ready: **[🚀 Project Submission](ht
 
 Check out this video for step by step project submission guidance:
 
-https://user-images.githubusercontent.com/11164679/217246172-0aaea858-a4be-4fb8-abf2-beebfc1544ef.mp4
+<https://user-images.githubusercontent.com/11164679/217246172-0aaea858-a4be-4fb8-abf2-beebfc1544ef.mp4>
 
 ## Recommended Learning Materials
 
@@ -74,6 +75,7 @@ https://user-images.githubusercontent.com/11164679/217246172-0aaea858-a4be-4fb8-
 If you are looking for a code template to start your project, we have the following templates available for you in this repository:
 
 * [Console App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-console-app-microsoft-graph)
+* [Blazor Server App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-blazor-server-app-microsoft-graph)
 
 ## Prizes
 
