@@ -15,7 +15,7 @@ Every app that uses Azure AD for authentication must be registered with Azure AD
   
 #### Register an app by using Azure CLI
 
-* [install Azure CLI](https://learn.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest) if you haven't already.
+* [Install Azure CLI](https://learn.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest) if you haven't already.
 * Register your app on Microsoft Azure, by creating a new Azure AD app registration:
   * On macOS/Linux/in Bash:
     * Open terminal and change the working directory to the root of this project
