@@ -17,7 +17,11 @@ If you are n Microsoft 365 subscriber, you can develop apps with Microsoft Graph
 * Education, Education Plus, and Education E5
 * Microsoft Teams will also be available to customers who subscribed to E4 prior to its retirement.
 
-## 2 - Install Visual Studio or Visual Studio Code with .NET
+## 2 - (Option 1) Install .NET Core 7.0 SDK
+
+* Install [.NET Core 7.0 SDK](https://dotnet.microsoft.com/en-us/download) and .NET SDK with the editor tool of your choice.
+
+## 3 - (Option 2) Install Visual Studio or Visual Studio Code with .NET
 
 **Visual Studio**
 
@@ -29,9 +33,10 @@ If you are n Microsoft 365 subscriber, you can develop apps with Microsoft Graph
 * The latest Visual Studio Code version is available here: <https://code.visualstudio.com/>
 * Set up Visual Studio Code for .NET development by installing .NET Coding Pack and extensions. For more details, see [Using .NET in Visual Studio Code](https://code.visualstudio.com/docs/languages/dotnet).
 
-## 3 - Setup your GitHub account
+## 4 - Setup your GitHub account
+
 GitHub offers personal accounts for individuals and organizations for teams of people working together.
 
-You can create a personal account, which serves as your identity on https://github.com, or an organization, which allows multiple personal accounts to collaborate across multiple projects. 
+You can create a personal account, which serves as your identity on <https://github.com>, or an organization, which allows multiple personal accounts to collaborate across multiple projects.
 
 For more information, see [Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account#about-new-accounts-on-githubcom).
