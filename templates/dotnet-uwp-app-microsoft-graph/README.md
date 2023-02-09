@@ -6,6 +6,9 @@ This is a template for Universal Windows Platform app that connects to Microsoft
 
 Follow the instructions to successfully run your UWP app with Microsoft Graph.
 
+Install [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) with Universal Windows Platform development workload if you haven't already:
+![UWP Workload with Visual Studio](/templates/dotnet-uwp-app-microsoft-graph/uwp-workload.png)
+
 ### 1. Register an Azure Active Directory app
 
 Every app that uses Azure AD for authentication must be registered with Azure AD. You can register app through Azure Portal or by using Azure CLI. Please follow one of the options to register your app:
