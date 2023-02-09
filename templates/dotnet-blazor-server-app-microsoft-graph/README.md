@@ -18,13 +18,17 @@ Every app that uses Azure AD for authentication must be registered with Azure AD
 
 * Select **Certificates & secrets** tab in your registered app, and then **Client secrets**. Create a **New client secret** that never expires.
 
-Make note of the **secret's value** as you'll use it in the next step. You can’t access it again once you navigate away from this pane. However, you can recreate it as needed.
+Make note of the **secret's value** as you'll use it in the next step. Also, natigate to **Overview tab** and make a note of the **Application (client) ID** and **Directory (tenant) ID**. You'll use them in the next steps.
 
 ### Run the Blazor Server app
 
 * Clone the Hack Together repository to your local workspace or directly download the source code.
 * Open the project folder `dotner-blazor-server-app-microsoft-graph` with the editor of your choice. (Visual Studio Code is recommended.)
-* Navigate to your Blazor app in your editor and add the client secret to the *appsettings.json* file, replacing the text "secret-from-app-registration".
+* Navigate to your Blazor app in your editor, and select *appsettings.json* file, replace:
+  * "secret-from-app-registration" with `Secret's value`
+  * "client-id-from-app-registration" with `Application (client) ID`
+  * "tenant-id-from-app-registration" with `Directory (tenant) ID`
+  * "domain-from-app-registration" with your domain name such as `<your-tenant-name>.onmicrosoft.com`
 * In your terminal, run the following command:
 
 ```dotnetcli
