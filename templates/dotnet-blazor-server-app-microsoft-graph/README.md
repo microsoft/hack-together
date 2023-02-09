@@ -37,10 +37,8 @@ Every app that uses Azure AD for authentication must be registered with Azure AD
 
 * Go to [Azure Portal](https://portal.azure.com) and login with your testing account that has Application developer or administrator permissions.
 * Select **Azure Active Directory**, and select **App Registrations** from the left side bar. Then select **+ New registration**.
-* Give any name to your app. For **Supported account types**, select **Accounts in this organizational directory only**.
+* Give any name to your app. For **Supported account types**, select **Accounts in any organizational directory (Any Azure AD directory - Multitenant) and personal Microsoft accounts (e.g. Skype, Xbox)**.
 * Set the **Redirect URI** drop down to **Web** and enter `https://localhost:5001/signin-oidc`. Then, select **Register**.
-* Select **Authentication** tab in your registered app, go to **Implicit grant and hybrid flows** section, select `Access tokens` and `ID tokens`, and then select **Save**.
-
 * Select **Certificates & secrets** tab in your registered app, and then **Client secrets**. Create a **New client secret** that never expires.
 
 Make note of the **secret's value** as you'll use it in the next step. Also, natigate to **Overview tab** and make a note of the **Application (client) ID** and **Directory (tenant) ID**. You'll use them in the next steps.
@@ -55,7 +53,7 @@ Make note of the **secret's value** as you'll use it in the next step. Also, nat
   * "secret-from-app-registration" with `Secret's value`
   * "client-id-from-app-registration" with `Application (client) ID`
   * "tenant-id-from-app-registration" with `Directory (tenant) ID`
-  * "domain-from-app-registration" with your domain name such as `<your-tenant-name>.onmicrosoft.com`
+
 * In your terminal, run the following command:
 
 ```dotnetcli

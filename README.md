@@ -76,6 +76,7 @@ If you are looking for a code template to start your project, we have the follow
 
 * [Console App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-console-app-microsoft-graph)
 * [Blazor Server App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-blazor-server-app-microsoft-graph)
+* [UWP (Universal Windows Platform) App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-uwp-app-microsoft-graph)
 
 ## Prizes
 
