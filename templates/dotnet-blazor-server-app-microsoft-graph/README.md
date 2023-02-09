@@ -8,7 +8,7 @@ Follow the instructions to successfully run your Blazor Server app with Microsof
 
 ### Register an app in the Azure portal
 
-Every app that uses Azure AD for authentication must be registered with Azure AD. Follow the instructions in Register an application with these additions:
+Every app that uses Azure AD for authentication must be registered with Azure AD. Follow the instructions to register an application:
 
 * Go to [Azure Portal](https://portal.azure.com) and login with your testing account that has Application developer or administrator permissions.
 * Select **Azure Active Directory**, and select **App Registrations** from the left side bar. Then select **+ New registration**.
