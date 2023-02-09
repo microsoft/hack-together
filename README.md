@@ -1,6 +1,8 @@
 # Hack Together: Microsoft Graph and .NET 🦒
 
-![Hack Together Roadmap](/assets/HackTogetherRoadmap.png)
+<p align="center">
+  <img src="./assets/banner.png" alt="Hack Together banner"/>
+</p>
 
 <p align="center">
   <a href="https://aka.ms/hack-together/sessions"><img src="https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge" alt="Add to calendar" border="0" /></a>
@@ -23,6 +25,8 @@ The hackathon starts on **March 1st** and ends on **March 15th**. It is recommen
 * Submit your project until March 15 to win the **[🏆 Prizes](https://github.com/microsoft/hack-together#prizes)**.
 
 ## Hack Together Roadmap 🗺️
+
+![Hack Together Roadmap](./assets/HackTogetherRoadmap.png)
 
 Follow the steps below to successfully complete the hackathon.
 
