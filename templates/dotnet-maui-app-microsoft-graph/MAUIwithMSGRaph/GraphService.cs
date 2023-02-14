@@ -12,8 +12,7 @@ namespace MAUIwithMSGRaph
     internal class GraphService
     {
         private readonly string[] _scopes = new[] { "User.Read" };
-        private const string TenantId = "tenant-id-from-app-registration";
-        private const string ClientId = "client-id-from-app-registration";
+        private const string ClientId = "CLIENT_ID";
         private GraphServiceClient _client;
 
         public GraphService()
@@ -28,7 +27,6 @@ namespace MAUIwithMSGRaph
             {
                 var options = new InteractiveBrowserCredentialOptions
                 {
-                    TenantId = TenantId,
                     ClientId = ClientId,
                     AuthorityHost = AzureAuthorityHosts.AzurePublicCloud,
                     RedirectUri = new Uri("https://login.microsoftonline.com/common/oauth2/nativeclient"),
