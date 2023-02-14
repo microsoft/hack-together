@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aka.ms/hack-together/sessions"><img src="https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge" alt="Add to calendar" border="0" /></a>
+  <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-red?style=for-the-badge" alt="Register now" border="0" /></a>
 </p>
 
 ## Introduction
