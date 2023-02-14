@@ -23,3 +23,10 @@ body:
       description: URL of the GitHub repo with your project
     validations:
       required: true
+  - type: input
+    id: teammembers
+    attributes:
+      label: Team members
+      description: Comma-separated list of GitHub users who worked on this project
+    validations:
+      required: true
