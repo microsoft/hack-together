@@ -4,9 +4,9 @@ This is a template for .NET Core MVC (Model - View - Controller) web app that co
 
 ## Minimal Path to Awesome 🚀
 
-Follow the instructions to successfully run your UWP app with Microsoft Graph.
+Follow the instructions to successfully run your MVC app with Microsoft Graph.
 
-Install [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) with MAUI development workload if you haven't already:
+Install [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) with ASP.NET and web development workload if you haven't already:
 ![ASP.NET Workload with Visual Studio](/templates/dotnet-core-mvc-web-app-microsoft-graph/aspnetworkload.png)
 
 ### 1. Connect with Microsoft Identity Platform
@@ -36,4 +36,4 @@ After the login, you'll see your email address mentioned on navigation bar of yo
 
 ## Reference
 
-* [Quickstart: Register an application with the Microsoft identity platform](https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app)
+* [Quickstart: Register an application with the Microsoft identity platform](https://learn.microsoft.com/azure/active-directory/develop/quickstart-register-app)
