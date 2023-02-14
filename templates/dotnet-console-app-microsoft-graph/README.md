@@ -51,7 +51,7 @@ Navigate to **Overview** tab and make a note of the **Application (client) ID**.
 ### 2. Run your Console app
 
 * Clone the Hack Together repository to your local workspace or directly download the source code.
-* Open the project folder `dotner-console-app-microsoft-graph` with the editor of your choice. (Visual Studio Code is recommended.)
+* Open the project folder `dotnet-console-app-microsoft-graph` with the editor of your choice. (Visual Studio Code is recommended.)
 * In Visual Studio Code, press F5 to run the app.
   ![App output in the debug console in VSCode](./screenshot.png)
 
