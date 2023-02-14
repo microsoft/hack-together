@@ -12,28 +12,32 @@ Every app that uses Azure AD for authentication must be registered with Azure AD
 
 <details>
   <summary>Option 1: Register an app by using Azure CLI</summary>
-  
-#### Register an app by using Azure CLI
 
 * [Install Azure CLI](https://learn.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest) if you haven't already.
 * Register your app on Microsoft Azure, by creating a new Azure AD app registration:
-  * On macOS/Linux/in Bash:
+  * <details>
+      <summary>On macOS/Linux/in Bash</summary>
+
     * Open terminal and change the working directory to the root of this project
     * To make the setup script executable, run `chmod +x ./setup.sh`
     * To register the app, run `./setup.sh`
     * When prompted, sign in with your **Microsoft 365 developer sandbox account**
-  * On Windows/in PowerShell:
+
+    </details>
+  * <details>
+      <summary>On Windows/in PowerShell</summary>
+
     * Open PowerShell and change the working directory to the root of this project
     * To register the app, run `.\setup.ps1`
     * When prompted, sign in with your **Microsoft 365 developer sandbox account**
+
+    </details>
 
 </details>
 
 <details>
 
   <summary>Option 2: Register an app through Azure Portal</summary>
-  
-#### Register your app through Azure Portal
 
 * Go to [Azure Portal](https://portal.azure.com) and login with your testing account that has Application developer or administrator permissions.
 * Select **Azure Active Directory**, and select **App Registrations** from the left side bar. Then select **+ New registration**.
