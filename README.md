@@ -48,13 +48,13 @@ Either team-up or join by yourself, join the hacking! Make sure to complete the 
   <a href="https://aka.ms/hack-together/sessions"><img src="https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge" alt="Add to calendar" border="0" /></a>
 </p>
 
-* **March 1st - [Join Live 📺](https://aka.ms/hack-together/session01):** Kickoff Hack Together: Microsoft Graph and .NET! What can you do with Microsoft Graph .NET SDK?
+* **[March 1st - Join Live 📺](https://aka.ms/hack-together/session01):** Kickoff Hack Together: Microsoft Graph and .NET! What can you do with Microsoft Graph .NET SDK?
 
-* **March 2nd - [Join Live 📺](https://aka.ms/hack-together/session02):** Microsoft Graph Product Managers will show you how to get started with Microsoft Graph .NET SDK!
+* **[March 2nd - Join Live 📺](https://aka.ms/hack-together/session02):** Microsoft Graph Product Managers will show you how to get started with Microsoft Graph .NET SDK!
 
-* **March 8th - [Join Live 📺](https://aka.ms/hack-together/session03):** Microsoft Graph Product team and .NET Advocates join the Ask the Experts session to answer your questions. Get to know them!
+* **[March 8th - Join Live 📺](https://aka.ms/hack-together/session03):** Microsoft Graph Product team and .NET Advocates join the Ask the Experts session to answer your questions. Get to know them!
 
-* **March 15th - [Join Live 📺](https://aka.ms/hack-together/session04):** We're at the end of Hack Together, but the journey doesn't end here. What's next: learn how you can join the community!
+* **[March 15th - Join Live 📺](https://aka.ms/hack-together/session04):** We're at the end of Hack Together, but the journey doesn't end here. What's next: learn how you can join the community!
 
 ### #03 - Submit your project until March 15th
 
