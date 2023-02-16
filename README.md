@@ -81,9 +81,6 @@ If you are looking for a code template to start your project, we have the follow
 * [.NET Core MVC (Model - View - Controller) Web App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-core-mvc-web-app-microsoft-graph)
 
 ## Prizes 🏅
-
-**🏅 All hackathon participants who submit an app will receive a digital badge.**
-
 The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team): 
 
 **🥇 First prize winner:**
@@ -100,6 +97,8 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 **🥉 Third prize winner:**
 * $100 Azure credit
 * a digital Credly badge
+
+**🏅 All hackathon participants who submit an app will receive a digital badge.**
 
 <p align="center">
   <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
