@@ -31,9 +31,11 @@ The hackathon starts on **March 1st** and ends on **March 15th**. It is recommen
 Follow the steps below to successfully complete the hackathon.
 
 ### #00 - Pre-requisites
-<p align="left">
+
+Register to Hack Together: <p align="left">
   <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
 </p>
+
 Before you start hacking, you will need an environment setup. Review **[Environment Setup](/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
 * [Prepare your Office 365 tenant](/setup.md#1---prepare-your-microsoft-365-tenant)
@@ -42,10 +44,7 @@ Before you start hacking, you will need an environment setup. Review **[Environm
 
 ### #01 - Start hacking on March 1st
 
-Either team-up or join by yourself, join the hacking! Make sure to complete the pre-requisites before starting to build your project and register.
-<p align="left">
-  <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
-</p>
+Either team-up or join by yourself, join the hacking! Make sure to register to Hack Together and complete the pre-requisites before starting to build your project.
 
 ### #02 - Join live Reactor sessions for learning and inspiration
 
