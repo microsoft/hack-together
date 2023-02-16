@@ -105,5 +105,9 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
 
 <p align="center">
+  <img src="./assets/footer.png" alt="Hack Together footer"/>
+</p>
+
+<p align="center">
   <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
 </p>
