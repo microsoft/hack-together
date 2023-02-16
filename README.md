@@ -80,10 +80,8 @@ If you are looking for a code template to start your project, we have the follow
 * [MAUI (Multi-platform App UI) App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-maui-app-microsoft-graph)
 * [.NET Core MVC (Model - View - Controller) Web App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-core-mvc-web-app-microsoft-graph)
 
-## Prizes
+## Prizes 🏅
 
-🏅 Submitted project owners will earn a digital badge
-
-🎤 Top 3 project owners will be invited to speak at Microsoft 365 Platform Community Calls
-
-🎁 Active participants on live Reactor sessions and GitHub Discussions will earn additional gifts
+1. First prize winner (up to 4 individuals if submitting as a team): each first prize winner will receive an Xbox, $200 gift card, $100 Azure credit, and a digital Credly badge
+1. Second prize winner (up to 4 individuals if submitting as a team): each second prize winner will receive $200 gift card, $100 Azure credit, and a digital Credly badge
+1. Third prize winner (up to 4 individuals if submitting as a team): each third prize winner will receive $100 Azure credit and a digital Credly badge.
