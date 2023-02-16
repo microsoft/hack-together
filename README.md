@@ -31,7 +31,9 @@ The hackathon starts on **March 1st** and ends on **March 15th**. It is recommen
 Follow the steps below to successfully complete the hackathon.
 
 ### #00 - Pre-requisites
-
+<p align="left">
+  <img src="./assets/banner.png" alt="Hack Together banner"/>
+</p>
 Before you start hacking, you will need an environment setup. Review **[Environment Setup](/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
 * [Prepare your Office 365 tenant](/setup.md#1---prepare-your-microsoft-365-tenant)
@@ -40,7 +42,10 @@ Before you start hacking, you will need an environment setup. Review **[Environm
 
 ### #01 - Start hacking on March 1st
 
-Either team-up or join by yourself, join the hacking! Make sure to complete the pre-requisites before starting to build your project.
+Either team-up or join by yourself, join the hacking! Make sure to complete the pre-requisites before starting to build your project and register.
+<p align="left">
+  <img src="./assets/banner.png" alt="Hack Together banner"/>
+</p>
 
 ### #02 - Join live Reactor sessions for learning and inspiration
 
