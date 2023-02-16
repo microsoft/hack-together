@@ -82,9 +82,9 @@ If you are looking for a code template to start your project, we have the follow
 
 ## Prizes 🏅
 
-1. First prize winner (up to 4 individuals if submitting as a team): each first prize winner will receive an Xbox, $200 gift card, $100 Azure credit, and a digital Credly badge
-1. Second prize winner (up to 4 individuals if submitting as a team): each second prize winner will receive $200 gift card, $100 Azure credit, and a digital Credly badge
-1. Third prize winner (up to 4 individuals if submitting as a team): each third prize winner will receive $100 Azure credit and a digital Credly badge.
+🥇 First prize winner (up to 4 individuals if submitting as a team): each first prize winner will receive an Xbox, $200 gift card, $100 Azure credit, and a digital Credly badge
+🥈 Second prize winner (up to 4 individuals if submitting as a team): each second prize winner will receive $200 gift card, $100 Azure credit, and a digital Credly badge
+🥉 Third prize winner (up to 4 individuals if submitting as a team): each third prize winner will receive $100 Azure credit and a digital Credly badge.
 
 <p align="center">
   <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
