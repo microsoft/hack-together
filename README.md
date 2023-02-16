@@ -32,7 +32,7 @@ Follow the steps below to successfully complete the hackathon.
 
 ### #00 - Pre-requisites
 <p align="left">
-  <img src="./assets/banner.png" alt="Hack Together banner"/>
+  <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
 </p>
 Before you start hacking, you will need an environment setup. Review **[Environment Setup](/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
 
@@ -44,7 +44,7 @@ Before you start hacking, you will need an environment setup. Review **[Environm
 
 Either team-up or join by yourself, join the hacking! Make sure to complete the pre-requisites before starting to build your project and register.
 <p align="left">
-  <img src="./assets/banner.png" alt="Hack Together banner"/>
+  <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
 </p>
 
 ### #02 - Join live Reactor sessions for learning and inspiration
