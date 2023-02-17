@@ -22,7 +22,7 @@ The hackathon starts on **March 1st** and ends on **March 15th**. It is recommen
 * There is a list of **[📃 Top Microsoft Graph Scenarios](/top-scenarios.md)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
 * Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](https://github.com/microsoft/hack-together#recommended-learning-materials)** below.
 * Looking for code templates to start with? Check out available **[✨ Templates](https://github.com/microsoft/hack-together#templates)** in the repository.
-* Submit your project until March 15 to win the **[🏆 Prizes](https://github.com/microsoft/hack-together#prizes)**.
+* Submit your project until March 15 to win the **[🏆 Prizes](https://github.com/microsoft/hack-together#prizes-)**.
 
 ## Hack Together Roadmap 🗺️
 
