@@ -15,8 +15,6 @@ Every app that uses Azure AD for authentication must be registered with Azure AD
 
 <details>
   <summary>Option 1: Register an app by using Azure CLI</summary>
-  
-#### Register an app by using Azure CLI
 
 * [Install Azure CLI](https://learn.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest) if you haven't already.
 * Register your app on Microsoft Azure, by creating a new Azure AD app registration:
@@ -35,8 +33,6 @@ Every app that uses Azure AD for authentication must be registered with Azure AD
 <details>
 
   <summary>Option 2: Register an app through Azure Portal</summary>
-  
-#### Register your app through Azure Portal
 
 * Go to [Azure Portal](https://portal.azure.com) and login with your testing account that has Application developer or administrator permissions.
 * Select **Azure Active Directory**, and select **App Registrations** from the left side bar. Then select **+ New registration**.
@@ -51,7 +47,8 @@ Navigate to **Overview tab** and make a note of the **Application (client) ID**.
 
 * Clone the Hack Together repository to your local workspace or directly download the source code.
 * Open the project folder `dotnet-uwp-app-microsoft-graph` and double click to `UWP-app-MSGraph.sln` file to open your project with Visual Studio.
-* Navigate to your UWP project, and select *MainPage.xaml.cs* file, replace "client-id-from-app-registration" with `Application (client) ID` that you copied from your Azure Active Directory app.
+* Update app and secret (only if in the previous step you registered your app manually)
+  * Navigate to your UWP project, and select *MainPage.xaml.cs* file, replace "client-id-from-app-registration" with `Application (client) ID` that you copied from your Azure Active Directory app.
 * Select **Local Machine** button to run your app on your machine.
 
 In your UWP app, log in using an Azure AD user account.
@@ -62,5 +59,5 @@ After the login, you'll see your email address on the panel of your app:
 
 ## Reference
 
-* [Tutorial: Call the Microsoft Graph API from a Universal Windows Platform (UWP) application](https://learn.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-windows-uwp)
-* [Quickstart: Register an application with the Microsoft identity platform](https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app)
+* [Tutorial: Call the Microsoft Graph API from a Universal Windows Platform (UWP) application](https://learn.microsoft.com/azure/active-directory/develop/tutorial-v2-windows-uwp)
+* [Quickstart: Register an application with the Microsoft identity platform](https://learn.microsoft.com/azure/active-directory/develop/quickstart-register-app)
