@@ -17,6 +17,8 @@ using Microsoft.Graph;
 using System.Diagnostics;
 using System.Threading.Tasks;
 using System.Net.Http.Headers;
+using Microsoft.Graph.Models;
+using Microsoft.Kiota.Abstractions.Authentication;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
@@ -61,7 +63,7 @@ namespace UWP_app_MSGraph
                 GraphServiceClient graphClient = await SignInAndInitializeGraphServiceClient(scopes);
 
                 // Call the /me endpoint of Graph
-                User graphUser = await graphClient.Me.Request().GetAsync();
+                User graphUser = await graphClient.Me.GetAsync();
 
                 // Go back to the UI thread to make changes to the UI
                 await Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Normal, () =>
@@ -129,11 +131,9 @@ namespace UWP_app_MSGraph
         /// <returns>GraphServiceClient</returns>
         private async static Task<GraphServiceClient> SignInAndInitializeGraphServiceClient(string[] scopes)
         {
-            GraphServiceClient graphClient = new GraphServiceClient(MSGraphURL,
-                new DelegateAuthenticationProvider(async (requestMessage) =>
-                {
-                    requestMessage.Headers.Authorization = new AuthenticationHeaderValue("bearer", await SignInUserAndGetTokenUsingMSAL(scopes));
-                }));
+            var tokenProvider = new TokenProvider(SignInUserAndGetTokenUsingMSAL, scopes);
+            var authProvider = new BaseBearerTokenAuthenticationProvider(tokenProvider);
+            var graphClient = new GraphServiceClient(authProvider, MSGraphURL);
 
             return await Task.FromResult(graphClient);
         }
