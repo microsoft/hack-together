@@ -1,5 +1,6 @@
 ﻿using Azure.Identity;
 using Microsoft.Graph;
+using Microsoft.Graph.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -49,7 +50,7 @@ namespace MAUIwithMSGRaph
         {
             try
             {
-                return await _client.Me.Request().GetAsync();
+                return await _client.Me.GetAsync();
             }
             catch (Exception ex)
             {
