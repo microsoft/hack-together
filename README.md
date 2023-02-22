@@ -108,7 +108,7 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
 
 ---
-**✅ Hack Together winners will be selected as per the following judging criterias:** 
+**ℹ️ Hack Together winners will be selected as per the following judging criterias:** 
 1. Does the app work?
 2. Does the app use the Microsoft Graph .NET SDK?
 3. Does the app creative, innovative and polish?
