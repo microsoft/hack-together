@@ -108,7 +108,7 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
 
 ---
-**Hack Together winners will be selected as per the following judging criterias:** 
+**✅ Hack Together winners will be selected as per the following judging criterias:** 
 1. Does the app work?
 2. Does the app use the Microsoft Graph .NET SDK?
 3. Does the app creative, innovative and polish?
@@ -118,5 +118,10 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 </p>
 
 <p align="center">
-  <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
+  <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/
+
+
+
+
+<p align="center"> badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
 </p>
