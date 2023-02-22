@@ -72,6 +72,9 @@ Check out this video for step by step project submission guidance:
 
 * [Learn Path - Explore Microsoft Graph scenarios for ASP.NET Core development](https://learn.microsoft.com/en-us/training/paths/m365-msgraph-dotnet-core-scenarios/)
 * [Tutorial - Build .NET apps with Microsoft Graph](https://learn.microsoft.com/en-us/graph/tutorials/dotnet?tabs=aad)
+* [Tutorial: Create a Blazor Server app that uses the Microsoft identity platform for authentication](https://learn.microsoft.com/azure/active-directory/develop/tutorial-blazor-server)
+* [Tutorial: Call the Microsoft Graph API from a Universal Windows Platform (UWP) application](https://learn.microsoft.com/azure/active-directory/develop/tutorial-v2-windows-uwp)
+* [Tutorial: Create a .NET MAUI app using the Microsoft Graph SDK](https://learn.microsoft.com/windows/apps/windows-dotnet-maui/tutorial-graph-api)
 * [Documentation - Overview of Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview)
 
 ## Templates
@@ -103,6 +106,13 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 * a digital Credly badge
 
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
+
+> Hackathon judging criteria: 
+* Does it work?
+* Uses the Microsoft Graph .NET SDK
+* Creative 
+* Innovative
+* Polish
 
 <p align="center">
   <img src="./assets/footer.png" alt="Hack Together footer"/>
