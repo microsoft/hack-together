@@ -106,14 +106,12 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 * a digital Credly badge
 
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
-
-> Hackathon judging criteria: 
-* Does it work?
-* Uses the Microsoft Graph .NET SDK
-* Creative 
-* Innovative
-* Polish
-
+```
+Hack Together winners will be selected as per the following judging criterias: 
+1. Does the app work?
+2. Does the app use the Microsoft Graph .NET SDK?
+3. Does the app creative, innovative and polish?
+```
 <p align="center">
   <img src="./assets/footer.png" alt="Hack Together footer"/>
 </p>
