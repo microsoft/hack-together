@@ -118,10 +118,5 @@ The winners will receive the following exciting prizes (up to 4 individuals if s
 </p>
 
 <p align="center">
-  <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/
-
-
-
-
-<p align="center"> badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
+  <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
 </p>
