@@ -93,7 +93,7 @@ If you are looking for a code template to start your project, we have the follow
 The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team): 
 
 **🥇 First prize winner:**
-* an Xbox,
+* an Xbox
 * $200 gift card
 * $100 Azure credit
 * a digital Credly badge
