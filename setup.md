@@ -8,7 +8,7 @@ If you don't currently have an Microsoft 365 work/school account, you can sign u
 
 **Already have a Microsoft 365 account?**
 
-If you are n Microsoft 365 subscriber, you can develop apps with Microsoft Graph by using one of the following [plans](https://www.microsoft.com/en-ww/microsoft-365/enterprise/compare-office-365-plans?rtc=1):
+If you are a Microsoft 365 subscriber, you can develop apps with Microsoft Graph by using one of the following [plans](https://www.microsoft.com/en-ww/microsoft-365/enterprise/compare-office-365-plans?rtc=1):
 
 * Business Essentials
 * Business Premium
