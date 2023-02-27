@@ -4,7 +4,7 @@ This is a template for MAUI(Multi-platform App UI) app that connects to Microsof
 
 ## Minimal Path to Awesome 🚀
 
-Follow the instructions to successfully run your UWP app with Microsoft Graph.
+Follow the instructions to successfully run your MAUI app with Microsoft Graph.
 
 Install [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) with MAUI development workload if you haven't already:
 ![MAUI Workload with Visual Studio](/templates/dotnet-maui-app-microsoft-graph/maui-workload.png)
