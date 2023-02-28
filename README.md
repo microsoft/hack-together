@@ -70,7 +70,7 @@ Check out this video for step by step project submission guidance:
 
 <https://user-images.githubusercontent.com/11164679/217246172-0aaea858-a4be-4fb8-abf2-beebfc1544ef.mp4>
 
-We'd love to hear what you are working on, [🗺️ Tell us more about your project on GitHub discussions](https://github.com/microsoft/hack-together/discussions/33)
+We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](https://github.com/microsoft/hack-together/discussions/33)
 
 ## Recommended Learning Materials
 
