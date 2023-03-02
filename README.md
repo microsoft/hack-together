@@ -72,6 +72,8 @@ Check out this video for step by step project submission guidance:
 
 We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](https://github.com/microsoft/hack-together/discussions/33)
 
+If you add the tags `hacktogether` and `microsoft-graph-sdk` to your project, you can start inspiring others even before your submissions. [Check out other projects](https://github.com/topics/hacktogether)
+
 ## Recommended Learning Materials
 
 * [Learn Path - Explore Microsoft Graph scenarios for ASP.NET Core development](https://learn.microsoft.com/en-us/training/paths/m365-msgraph-dotnet-core-scenarios/)
@@ -80,6 +82,16 @@ We'd love to hear about your project, tell us what you are working on! [GitHub D
 * [Tutorial: Call the Microsoft Graph API from a Universal Windows Platform (UWP) application](https://learn.microsoft.com/azure/active-directory/develop/tutorial-v2-windows-uwp)
 * [Tutorial: Create a .NET MAUI app using the Microsoft Graph SDK](https://learn.microsoft.com/windows/apps/windows-dotnet-maui/tutorial-graph-api)
 * [Documentation - Overview of Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview)
+
+## Readme badge
+
+[![Hackathon](https://img.shields.io/badge/Microsoft%20365-Hackathon-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
+
+You can also add this badge to your readme by adding this code:
+
+```md
+[![Hackathon](https://img.shields.io/badge/Microsoft%20365-Hackathon-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
+```
 
 ## Templates
 
