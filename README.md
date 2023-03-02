@@ -72,14 +72,24 @@ Check out this video for step by step project submission guidance:
 
 We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](https://github.com/microsoft/hack-together/discussions/33)
 
+> **TIP:** Add the `hack-together` and `microsoft-graph-sdk` tags to your project, to inspire others! [Check out other projects](https://github.com/topics/hacktogether).
+>
+> And don't forget to add the Hack Together badge to your project's readme file, too!
+>
+> ```md
+> [![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
+> ```
+>
+> [![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
+
 ## Recommended Learning Materials
 
-* [Learn Path - Explore Microsoft Graph scenarios for ASP.NET Core development](https://learn.microsoft.com/en-us/training/paths/m365-msgraph-dotnet-core-scenarios/)
-* [Tutorial - Build .NET apps with Microsoft Graph](https://learn.microsoft.com/en-us/graph/tutorials/dotnet?tabs=aad)
+* [Learn Path - Explore Microsoft Graph scenarios for ASP.NET Core development](https://learn.microsoft.com/training/paths/m365-msgraph-dotnet-core-scenarios/)
+* [Tutorial - Build .NET apps with Microsoft Graph](https://learn.microsoft.com/graph/tutorials/dotnet?tabs=aad)
 * [Tutorial: Create a Blazor Server app that uses the Microsoft identity platform for authentication](https://learn.microsoft.com/azure/active-directory/develop/tutorial-blazor-server)
 * [Tutorial: Call the Microsoft Graph API from a Universal Windows Platform (UWP) application](https://learn.microsoft.com/azure/active-directory/develop/tutorial-v2-windows-uwp)
 * [Tutorial: Create a .NET MAUI app using the Microsoft Graph SDK](https://learn.microsoft.com/windows/apps/windows-dotnet-maui/tutorial-graph-api)
-* [Documentation - Overview of Microsoft Graph](https://learn.microsoft.com/en-us/graph/overview)
+* [Documentation - Overview of Microsoft Graph](https://learn.microsoft.com/graph/overview)
 
 ## Templates
 
@@ -92,30 +102,36 @@ If you are looking for a code template to start your project, we have the follow
 * [.NET Core MVC (Model - View - Controller) Web App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-core-mvc-web-app-microsoft-graph)
 
 ## Prizes 🏅
-The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team): 
+
+The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team):
 
 **🥇 First prize winner:**
+
 * an Xbox
 * $200 gift card
 * $100 Azure credit
 * a digital Credly badge
 
 **🥈 Second prize winner:**
+
 * $200 gift card
 * $100 Azure credit
 * a digital Credly badge
 
 **🥉 Third prize winner:**
+
 * $100 Azure credit
 * a digital Credly badge
 
 **🏅 All hackathon participants who submit an app will receive a digital badge.**
 
 ---
-**ℹ️ Hack Together winners will be selected as per the following judging criterias:** 
+**ℹ️ Hack Together winners will be selected as per the following judging criterias:**
+
 1. Does the app work?
 2. Does the app use the Microsoft Graph .NET SDK?
 3. How creative, innovative, and polished the app is?
+
 ---
 <p align="center">
   <img src="./assets/footer.png" alt="Hack Together footer"/>
