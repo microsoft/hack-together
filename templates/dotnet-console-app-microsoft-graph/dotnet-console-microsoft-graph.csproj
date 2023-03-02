@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Azure.Identity" Version="1.8.1" />
-    <PackageReference Include="Microsoft.Graph" Version="5.0.0-rc.4" />
+    <PackageReference Include="Microsoft.Graph" Version="5.0.0" />
   </ItemGroup>
 
 </Project>
