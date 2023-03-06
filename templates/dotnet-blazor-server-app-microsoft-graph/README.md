@@ -55,8 +55,8 @@ Make note of the **secret's value** as you'll use it in the next step. Also, nav
 * Update app and secret (only if in the previous step you registered your app manually)
   * Open the project folder `dotner-blazor-server-app-microsoft-graph` with the editor of your choice. (Visual Studio Code is recommended.)
   * Navigate to your Blazor app in your editor, and select *appsettings.json* file, replace:
-    * "CLIENT_ID" with `Secret's value`
-    * "CLIENT_SECRET" with `Application (client) ID`
+    * "CLIENT_ID" with `Application (client) ID`
+    * "CLIENT_SECRET" with `Secret's value`
 * If you haven't done it previously, register a developer SSL certificate for dotnet apps. In your terminal, run the following command:
 
   ```dotnetcli
