@@ -1,142 +1,132 @@
-# Hack Together: Microsoft Graph and .NET 🦒
+# .NET v7.0 Blazor Server app connected to Microsoft Graph
 
-<p align="center">
-  <img src="./assets/banner.png" alt="Hack Together banner"/>
-</p>
+This is a template for a Blazor app built using .NET v7.0 that connects to Microsoft Graph.
 
-<p align="center">
-  <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
-</p>
+## Minimal Path to Awesome 🚀
 
-## Introduction
+Follow the instructions to successfully run your Blazor Server app with Microsoft Graph.
 
-**Hack Together: Microsoft Graph and .NET** is a hackathon for beginners to get started building scenario-based apps using .NET and Microsoft Graph.
+### 1. Register an Azure Active Directory app
 
-In this hackathon, you will kick-start learning how to build apps with Microsoft Graph and develop apps based on the given Top Microsoft Graph Scenarios, for a chance to win exciting prizes while meeting Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors.
+Every app that uses Azure AD for authentication must be registered with Azure AD. You can register app through Azure Portal or by using Azure CLI. Please follow one of the options to register your app:
 
-The hackathon starts on **March 1st** and ends on **March 15th**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
+<details>
+  <summary>Option 1: Register an app by using Azure CLI</summary>
 
-### Tips & Tricks
+* [Install Azure CLI](https://learn.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest) if you haven't already.
+* Register your app on Microsoft Azure, by creating a new Azure AD app registration:
+  * <details>
+      <summary>On macOS/Linux/in Bash</summary>
 
-* Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](https://github.com/microsoft/hack-together/discussions/32)**. Microsoft experts will be there to help you.
-* There is a list of **[📃 Top Microsoft Graph Scenarios](/top-scenarios.md)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
-* Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](https://github.com/microsoft/hack-together#recommended-learning-materials)** below.
-* Looking for code templates to start with? Check out available **[✨ Templates](https://github.com/microsoft/hack-together#templates)** in the repository.
-* Submit your project until March 15 to win the **[🏆 Prizes](https://github.com/microsoft/hack-together#prizes-)**.
+    * Open terminal and change the working directory to the root of this project
+    * To make the setup script executable, run `chmod +x ./setup.sh`
+    * To register the app, run `./setup.sh`
+    * When prompted, sign in with your **Microsoft 365 developer sandbox account**
 
-## Hack Together Roadmap 🗺️
+    </details>
+  * <details>
+      <summary>On Windows/in PowerShell</summary>
 
-![Hack Together Roadmap](./assets/HackTogetherRoadmap.png)
+    * Open PowerShell and change the working directory to the root of this project
+    * To register the app, run `.\setup.ps1`
+    * When prompted, sign in with your **Microsoft 365 developer sandbox account**
 
-Follow the steps below to successfully complete the hackathon.
+    </details>
 
-### #00 - Pre-requisites
+</details>
 
-Register to Hack Together: <p align="left">
-  <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
-</p>
+<details>
 
-Before you start hacking, you will need an environment setup. Review **[Environment Setup](/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
+  <summary>Option 2: Register an app through Azure Portal</summary>
 
-* [Prepare your Office 365 tenant](/setup.md#1---prepare-your-microsoft-365-tenant)
-* [Install Visual Studio or Visual Studio Code with .NET](/setup.md#2---install-visual-studio-or-visual-studio-code-with-net)
-* [Setup your GitHub account](/setup.md#3---setup-your-github-account)
+* Go to [Azure Portal](https://portal.azure.com) and login with your testing account that has Application developer or administrator permissions.
+* Select **Azure Active Directory**, and select **App Registrations** from the left side bar. Then select **+ New registration**.
+* Give any name to your app. For **Supported account types**, select **Accounts in any organizational directory (Any Azure AD directory - Multitenant) and personal Microsoft accounts (e.g. Skype, Xbox)**.
+* Set the **Redirect URI** drop down to **Web** and enter `https://localhost:5001/signin-oidc`. Then, select **Register**.
+* Select **Certificates & secrets** tab in your registered app, and then **Client secrets**. Create a **New client secret** that never expires.
 
-Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](https://github.com/microsoft/hack-together/discussions/31)
+Make note of the **secret's value** as you'll use it in the next step. Also, navigate to **Overview tab** and make a note of the **Application (client) ID** and **Directory (tenant) ID**. You'll use them in the next steps.
 
-### #01 - Start hacking on March 1st
+</details>
 
-Either team-up or join by yourself, join the hacking! Make sure to register to Hack Together and complete the pre-requisites before starting to build your project.
+### 2. Run your Blazor Server app
 
-### #02 - Join live Reactor sessions for learning and inspiration
+* Clone the Hack Together repository to your local workspace or directly download the source code.
+* Update app and secret (only if in the previous step you registered your app manually)
+  * Open the project folder `dotner-blazor-server-app-microsoft-graph` with the editor of your choice. (Visual Studio Code is recommended.)
+  * Navigate to your Blazor app in your editor, and select *appsettings.json* file, replace:
+    * "CLIENT_ID" with `Application (client) ID`
+    * "CLIENT_SECRET" with `Secret's value`
+* If you haven't done it previously, register a developer SSL certificate for dotnet apps. In your terminal, run the following command:
 
-<p align="left">
-  <a href="https://aka.ms/hack-together/sessions"><img src="https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge" alt="Add to calendar" border="0" /></a>
-</p>
+  ```dotnetcli
+  dotnet dev-certs https --trust
+  ```
 
-* **[March 1st - Watch On Demand 🎥](https://aka.ms/hack-together/session01):** Kickoff Hack Together: Microsoft Graph and .NET! What can you do with Microsoft Graph .NET SDK?
+* In your terminal, run the following command:
 
-* **[March 2nd - Watch On Demand 🎥](https://aka.ms/hack-together/session02):** Microsoft Graph Product Managers will show you how to get started with Microsoft Graph .NET SDK!
+  ```dotnetcli
+  dotnet run
+  ```
 
-* **[March 8th - Join Live 📺](https://aka.ms/hack-together/session03):** Microsoft Graph Product team and .NET Advocates join the Ask the Experts session to answer your questions. Get to know them!
+In your browser, navigate to `https://localhost:5001` , and log in using an Azure AD user account to see the app running.
 
-* **[March 15th - Join Live 📺](https://aka.ms/hack-together/session04):** We're at the end of Hack Together, but the journey doesn't end here. What's next: learn how you can join the community!
+After the login, you'll see your email address on the panel of your app:
 
-### #03 - Submit your project until March 15th
+![Blazor Server App](/templates/dotnet-blazor-server-app-microsoft-graph/blazorServerApp.png)
 
-You may submit your project here when it's ready: **[🚀 Project Submission](https://github.com/microsoft/hack-together/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
+Navigate to *Pages* folder in your app, and then *ShowProfile.razor* page. Observe the Microsoft Graph API request in the code to retrieve user email:
 
-Check out this video for step by step project submission guidance:
+```csharp
 
-<https://user-images.githubusercontent.com/11164679/217246172-0aaea858-a4be-4fb8-abf2-beebfc1544ef.mp4>
+@page "/showprofile"
 
-We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](https://github.com/microsoft/hack-together/discussions/33)
+@using Microsoft.Identity.Web
+@using Microsoft.Graph
+@inject Microsoft.Graph.GraphServiceClient GraphServiceClient
+@inject MicrosoftIdentityConsentAndConditionalAccessHandler ConsentHandler
 
-> **TIP:** Add the `hack-together` and `microsoft-graph-sdk` tags to your project, to inspire others! [Check out other projects](https://github.com/topics/hacktogether).
->
-> And don't forget to add the Hack Together badge to your project's readme file, too!
->
-> ```md
-> [![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
-> ```
->
-> [![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
+<h1>Me</h1>
 
-## Recommended Learning Materials
+<p>This component demonstrates fetching data from a service.</p>
 
-* [Learn Path - Explore Microsoft Graph scenarios for ASP.NET Core development](https://learn.microsoft.com/training/paths/m365-msgraph-dotnet-core-scenarios/)
-* [Tutorial - Build .NET apps with Microsoft Graph](https://learn.microsoft.com/graph/tutorials/dotnet?tabs=aad)
+@if (user == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table table-striped table-condensed" style="font-family: monospace">
+        <tr>
+            <th>Property</th>
+            <th>Value</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            //user profile information is shown in the UI
+            <td>@user.DisplayName</td> 
+        </tr>
+    </table>
+}
+
+@code {
+    User? user;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {    //Microsoft Graph API request to retrieve user profile
+            user = await GraphServiceClient.Me.Request().GetAsync(); 
+        }
+        catch (Exception ex)
+        {
+            ConsentHandler.HandleException(ex);
+        }
+    }
+}
+```
+
+## Reference
+
 * [Tutorial: Create a Blazor Server app that uses the Microsoft identity platform for authentication](https://learn.microsoft.com/azure/active-directory/develop/tutorial-blazor-server)
-* [Tutorial: Call the Microsoft Graph API from a Universal Windows Platform (UWP) application](https://learn.microsoft.com/azure/active-directory/develop/tutorial-v2-windows-uwp)
-* [Tutorial: Create a .NET MAUI app using the Microsoft Graph SDK](https://learn.microsoft.com/windows/apps/windows-dotnet-maui/tutorial-graph-api)
-* [Documentation - Overview of Microsoft Graph](https://learn.microsoft.com/graph/overview)
-
-## Templates
-
-If you are looking for a code template to start your project, we have the following templates available for you in this repository:
-
-* [Console App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-console-app-microsoft-graph)
-* [Blazor Server App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-blazor-server-app-microsoft-graph)
-* [UWP (Universal Windows Platform) App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-uwp-app-microsoft-graph)
-* [MAUI (Multi-platform App UI) App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-maui-app-microsoft-graph)
-* [.NET Core MVC (Model - View - Controller) Web App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-core-mvc-web-app-microsoft-graph)
-
-## Prizes 🏅
-
-The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team):
-
-**🥇 First prize winner:**
-
-* an Xbox
-* $200 gift card
-* $100 Azure credit
-* a digital Credly badge
-
-**🥈 Second prize winner:**
-
-* $200 gift card
-* $100 Azure credit
-* a digital Credly badge
-
-**🥉 Third prize winner:**
-
-* $100 Azure credit
-* a digital Credly badge
-
-**🏅 All hackathon participants who submit an app will receive a digital badge.**
-
----
-**ℹ️ Hack Together winners will be selected as per the following judging criterias:**
-
-1. Does the app work?
-2. Does the app use the Microsoft Graph .NET SDK?
-3. How creative, innovative, and polished the app is?
-
----
-<p align="center">
-  <img src="./assets/footer.png" alt="Hack Together footer"/>
-</p>
-
-<p align="center">
-  <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
-</p>
+* [Quickstart: Register an application with the Microsoft identity platform](https://learn.microsoft.com/azure/active-directory/develop/quickstart-register-app)
