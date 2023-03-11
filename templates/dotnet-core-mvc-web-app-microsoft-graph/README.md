@@ -24,9 +24,27 @@ Every app that uses Azure AD for authentication must be registered with Azure AD
 * Select **Local user secret file: Secret.json(local)**, then select **Next**.
 ![Create secret](/templates/dotnet-core-mvc-web-app-microsoft-graph/aad-secret.png)
 
+
+
 ### 2. Run your .NET Core MVC web app
 
 * Select **https** run button to start your app on your machine.
+
+## Visual Studio Code 🚀
+
+### 1. Get ClientId, TenantId and Domain
+* Register application for user authentication ([How to do it](https://learn.microsoft.com/en-us/graph/tutorials/dotnet?tabs=aad&tutorial-step=1)). 
+* Store data in appsettings.json
+### 2. Add credentials to secret.json
+```dotnetcli
+  dotnet user-secrets init
+  dotnet user-secrets set "AzureAD:ClientId" "Your_Azure_AD_Client_Id"
+  dotnet user-secrets set "AzureAD:ClientSecret" "Your_Azure_AD_Client_Secret"
+```
+### 3. Run app
+```dotnetcli
+  dotnet run
+```
 
 When your .NET Core MVC web app initiates, log in with your developer account.
 
