@@ -35,7 +35,7 @@ Every app that uses Azure AD for authentication must be registered with Azure AD
 ### 1. Get ClientId, TenantId and Domain
 * Register application for user authentication ([How to do it](https://learn.microsoft.com/en-us/graph/tutorials/dotnet?tabs=aad&tutorial-step=1)). 
 * Store data in appsettings.json
-### 2. Add credentials to secret.json
+### 2. Add credentials to secrets.json
 ```dotnetcli
   dotnet user-secrets init
   dotnet user-secrets set "AzureAD:ClientId" "Your_Azure_AD_Client_Id"
