@@ -58,7 +58,7 @@ Either team-up or join by yourself, join the hacking! Make sure to register to H
 
 * **[March 2nd - Watch On Demand 🎥](https://aka.ms/hack-together/session02):** Microsoft Graph Product Managers will show you how to get started with Microsoft Graph .NET SDK!
 
-* **[March 8th - Join Live 📺](https://aka.ms/hack-together/session03):** Microsoft Graph Product team and .NET Advocates join the Ask the Experts session to answer your questions. Get to know them!
+* **[March 8th - Watch On Demand 🎥](https://aka.ms/hack-together/session03):** Microsoft Graph Product team and .NET Advocates join the Ask the Experts session to answer your questions. Get to know them!
 
 * **[March 15th - Join Live 📺](https://aka.ms/hack-together/session04):** We're at the end of Hack Together, but the journey doesn't end here. What's next: learn how you can join the community!
 
