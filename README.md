@@ -8,21 +8,19 @@
   <a href="https://aka.ms/hack-together/survey"><img src="https://img.shields.io/badge/hackathon-survey-green?style=for-the-badge" alt="Hackathon survey" border="0" /></a>
 </p>
 
-## Introduction
+## Hack Together: Microsoft Graph and .NET 🦒
 
-**Hack Together: Microsoft Graph and .NET** is a hackathon for beginners to get started building scenario-based apps using .NET and Microsoft Graph.
+From March 1-15, 2023 we ran **Hack Together: Microsoft Graph and .NET** - a virtual hackathon for beginners to get started building scenario-based apps using .NET and Microsoft Graph.
 
-In this hackathon, you will kick-start learning how to build apps with Microsoft Graph and develop apps based on the given Top Microsoft Graph Scenarios, for a chance to win exciting prizes while meeting Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors.
+In this hackathon, participants learned how to build apps with Microsoft Graph based on top Microsoft Graph scenarios, and met Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors. Each submitted app had a chance to win exciting prizes.
 
-The hackathon starts on **March 1st** and ends on **March 15th**. It is recommended for participants to follow the Hack Together Roadmap for a successful hackathon.
+**We're reviewing [all the submissions](https://github.com/microsoft/hack-together/issues?q=is%3Aopen+is%3Aissue+label%3Ahack) and will announce the winners soon!**
 
-### Tips & Tricks
+## Continue your journey
 
-* Whenever you struggle during the hackathon, ask your questions on **[❓GitHub Discussions](https://github.com/microsoft/hack-together/discussions/32)**. Microsoft experts will be there to help you.
-* There is a list of **[📃 Top Microsoft Graph Scenarios](/top-scenarios.md)** available! You may build one of these scenarios to win a digital badge, or get inspired and build your own project ideas!
-* Looking for documentation and guidance? Check out **[📚 Recommended Learning Materials](https://github.com/microsoft/hack-together#recommended-learning-materials)** below.
-* Looking for code templates to start with? Check out available **[✨ Templates](https://github.com/microsoft/hack-together#templates)** in the repository.
-* Submit your project until March 15 to win the **[🏆 Prizes](https://github.com/microsoft/hack-together#prizes-)**.
+While the hackathon is finished, your journey doesn’t have to end. [Join the Microsoft 365 and Power Platform Community](https://pnp.github.io/) to continue building with Microsoft Graph and .NET. **Find like-minded people, attend community calls, and explore resources to see what else you can build using Microsoft Graph!**
+
+[![Microsoft 365 and Power Platform Community banner](./assets/banner-m365-community.png)](https://pnp.github.io/)
 
 ## Hack Together Roadmap 🗺️
 
@@ -30,29 +28,7 @@ The hackathon starts on **March 1st** and ends on **March 15th**. It is recommen
 
 Follow the steps below to successfully complete the hackathon.
 
-### #00 - Pre-requisites
-
-Register to Hack Together: <p align="left">
-  <a href="https://aka.ms/hack-together/register"><img src="https://img.shields.io/badge/register-now-green?style=for-the-badge" alt="Register now" border="0" /></a>
-</p>
-
-Before you start hacking, you will need an environment setup. Review **[Environment Setup](/setup.md)** guidelines or the following prerequisites or click the related link of each prerequisite to be directed to the official documentation:
-
-* [Prepare your Office 365 tenant](/setup.md#1---prepare-your-microsoft-365-tenant)
-* [Install Visual Studio or Visual Studio Code with .NET](/setup.md#2---install-visual-studio-or-visual-studio-code-with-net)
-* [Setup your GitHub account](/setup.md#3---setup-your-github-account)
-
-Introduce yourself, we'd like to get to know you! 🥳 [GitHub Discussions | Let's get to know each other 🎉](https://github.com/microsoft/hack-together/discussions/31)
-
-### #01 - Start hacking on March 1st
-
-Either team-up or join by yourself, join the hacking! Make sure to register to Hack Together and complete the pre-requisites before starting to build your project.
-
-### #02 - Join live Reactor sessions for learning and inspiration
-
-<p align="left">
-  <a href="https://aka.ms/hack-together/sessions"><img src="https://img.shields.io/badge/%F0%9F%93%86-add%20to%20calendar-blue?style=for-the-badge" alt="Add to calendar" border="0" /></a>
-</p>
+### Watch the sessions 🎥
 
 * **[March 1st - Watch On Demand 🎥](https://aka.ms/hack-together/session01):** Kickoff Hack Together: Microsoft Graph and .NET! What can you do with Microsoft Graph .NET SDK?
 
@@ -60,27 +36,7 @@ Either team-up or join by yourself, join the hacking! Make sure to register to H
 
 * **[March 8th - Watch On Demand 🎥](https://aka.ms/hack-together/session03):** Microsoft Graph Product team and .NET Advocates join the Ask the Experts session to answer your questions. Get to know them!
 
-* **[March 15th - Join Live 📺](https://aka.ms/hack-together/session04):** We're at the end of Hack Together, but the journey doesn't end here. What's next: learn how you can join the community!
-
-### #03 - Submit your project until March 15th
-
-You may submit your project here when it's ready: **[🚀 Project Submission](https://github.com/microsoft/hack-together/issues/new?assignees=&labels=&template=project.yml&title=Project%3A+%3Cshort+description%3E)**
-
-Check out this video for step by step project submission guidance:
-
-<https://user-images.githubusercontent.com/11164679/217246172-0aaea858-a4be-4fb8-abf2-beebfc1544ef.mp4>
-
-We'd love to hear about your project, tell us what you are working on! [GitHub Discussions | Tell us more about your project 🗺️](https://github.com/microsoft/hack-together/discussions/33)
-
-> **TIP:** Add the `hack-together` and `microsoft-graph-sdk` tags to your project, to inspire others! [Check out other projects](https://github.com/topics/hacktogether).
->
-> And don't forget to add the Hack Together badge to your project's readme file, too!
->
-> ```md
-> [![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
-> ```
->
-> [![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
+* **[March 15th - Watch On Demand 🎥](https://aka.ms/hack-together/session04):** We're at the end of Hack Together, but the journey doesn't end here. What's next: learn how you can join the community!
 
 ## Recommended Learning Materials
 
@@ -101,38 +57,8 @@ If you are looking for a code template to start your project, we have the follow
 * [MAUI (Multi-platform App UI) App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-maui-app-microsoft-graph)
 * [.NET Core MVC (Model - View - Controller) Web App](https://github.com/microsoft/hack-together/tree/main/templates/dotnet-core-mvc-web-app-microsoft-graph)
 
-## Prizes 🏅
-
-The winners will receive the following exciting prizes (up to 4 individuals if submitting as a team, prizes for each person on the team):
-
-**🥇 First prize winner:**
-
-* an Xbox
-* $200 gift card
-* $100 Azure credit
-* a digital Credly badge
-
-**🥈 Second prize winner:**
-
-* $200 gift card
-* $100 Azure credit
-* a digital Credly badge
-
-**🥉 Third prize winner:**
-
-* $100 Azure credit
-* a digital Credly badge
-
-**🏅 All hackathon participants who submit an app will receive a digital badge.**
-
 ---
-**ℹ️ Hack Together winners will be selected as per the following judging criterias:**
 
-1. Does the app work?
-2. Does the app use the Microsoft Graph .NET SDK?
-3. How creative, innovative, and polished the app is?
-
----
 <p align="center">
   <img src="./assets/footer.png" alt="Hack Together footer"/>
 </p>
