@@ -14,7 +14,15 @@ From March 1-15, 2023 we ran **Hack Together: Microsoft Graph and .NET** - a vir
 
 In this hackathon, participants learned how to build apps with Microsoft Graph based on top Microsoft Graph scenarios, and met Microsoft Graph Product Group Leaders, Cloud Advocates, MVPs and Student Ambassadors. Each submitted app had a chance to win exciting prizes.
 
-**We're reviewing [all the submissions](https://github.com/microsoft/hack-together/issues?q=is%3Aopen+is%3Aissue+label%3Ahack) and will announce the winners soon!**
+## We're excited to share the hackathon winners
+
+- 🥇 1st place: [Magic Note app to plan the day efficiently with AI & Microsoft Graph](https://github.com/microsoft/hack-together/issues/92)
+- 🥈 2nd place: [ScheduleEase](https://github.com/microsoft/hack-together/issues/178)
+- 🥉3rd place: [magi – An AI wizard to answer all your queries](https://github.com/microsoft/hack-together/issues/140)
+
+**Congratulations to the winners and a huge thank you to all participants!**
+
+Read the [full announcement](https://devblogs.microsoft.com/microsoft365dev/announcing-the-hack-together-microsoft-graph-and-net-winners/)
 
 ## Continue your journey
 
